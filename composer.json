@@ -1,0 +1,12 @@
+{
+    "name": "davidagoua/symtel",
+    "type": "library",
+    "description": "",
+    "authors": [
+        {
+            "name": "davidagoua",
+            "email": "davidagoua@gmail.com"
+        }
+    ],
+    "require": {}
+}
