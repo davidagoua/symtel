@@ -11,7 +11,7 @@ SYMTEL_SHORTNAME=shortname
 `
 
 3- Envoyer des sms
-`
+```
 
 class MyController extends Controller{
   
@@ -28,4 +28,4 @@ class MyController extends Controller{
 } 
 
 
-`
+```
