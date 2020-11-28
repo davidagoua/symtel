@@ -1,7 +1,7 @@
 {
     "name": "davidagoua/symtel",
     "type": "library",
-    "description": "",
+    "description": "Ce package Laravel vous permet d'envoyer des sms en Côte d'ivoire",
     "license": "OPL-1.0",
     "version": "1.0",
     "minimum-stability": "dev",
